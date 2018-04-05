@@ -7,7 +7,7 @@ I will try to update this script according to the updates of the repositories / 
 
 
 ```
-wget -O /tmp/elementary-postinstall-script.sh https://raw.githubusercontent.com/amaury-cleuziou/elementaryos-postinstall-script/master/elementary_post-install.sh && chmod +x /tmp/elementary_post-install.sh && elementary_post-install.sh
+wget -O /tmp/elementary-postinstall-script.sh https://raw.githubusercontent.com/amaury-cleuziou/elementaryos-postinstall-script/master/elementary_post-install.sh && chmod +x /tmp/elementary-post-install.sh && elementary-post-install.sh
 ```
 
 [![N|gui preview](https://pictshare.net/pa4lvl7k92.png)]
