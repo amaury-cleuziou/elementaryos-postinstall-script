@@ -10,4 +10,4 @@ I will try to update this script according to the updates of the repositories / 
 wget -O /tmp/elementary-postinstall-script.sh https://raw.githubusercontent.com/amaury-cleuziou/elementaryos-postinstall-script/master/elementary_post-install.sh && chmod +x /tmp/elementary-postinstall-script.sh && sudo ./elementary-postinstall-script.sh
 ```
 
-[![N|gui preview](https://pictshare.net/pa4lvl7k92.png)]
+![Gui Preview](https://pictshare.net/pa4lvl7k92.png)
