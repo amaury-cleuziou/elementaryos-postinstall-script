@@ -22,6 +22,7 @@ FALSE "Archive Formats"  \
 FALSE "Kdenlive"  \
 FALSE "Audacity"  \
 FALSE "Discord"  \
+FALSE "Gparted"  \
 FALSE "Numix Theme"  \
 FALSE "Numix Icons"  \
 --separator=', ');
@@ -138,6 +139,13 @@ then
 	sudo apt update -y
 	sudo apt install snapd -y
 	sudo snap install discord
+fi
+
+# Gparted
+if [[ $main_window == *"Gparted"* ]]
+then
+	clear
+	sudo apt-get intall gparted -y
 fi
 
 # Numix Theme
